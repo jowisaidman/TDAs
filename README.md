@@ -2,4 +2,7 @@
 
 - Dinamic Vector
 - Stack
-
+- Queue
+- Hash
+- Linked List
+- Heap
